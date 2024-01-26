@@ -1,1 +1,1 @@
-ansible-playbook docker_nginx.yaml
+ansible-playbook docker-nginx.yaml
